@@ -1,4 +1,3 @@
 Comenzamos a estudiar JPA y la implementación con Hibernate. (Proyecto de base )
-1- Descargar el proyecto
-2- Abrir en Intelligent Idea Community
-3 - Este Proyecto utiliza gradle y la base de dato H2 en memoria para simplificar
+En este caso no se nos indica pero asumí que el readme tendría que ser similar a los anteriores, por lo que será una guía para ejecutar el archivo, en este caso abrá que descargar todos los archivos y abrirlos con un IDE de java (inteliJ IDEA), a su vez deberemos abrir H2 (previamente instalado), una vez abierto el projecto esperaremos a que carguen las dependencias, copiaremos la URL indicada en el persistence.xml para linkear la base de datos de H2, para luego ejecutar el main y ver los resultados en la página. 
+El main está comentado indicando el paso a paso y el porque de cada línea.
